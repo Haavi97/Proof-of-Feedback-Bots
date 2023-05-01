@@ -3,7 +3,7 @@ const { ChainId } = require('@sushiswap/sdk');
 const PoFInternalValidator = {
   ADDRESS: {
     [ChainId.MATIC]: '0x0',
-    [ChainId.MATIC_TESTNET]: '0x475F734EbCeA2CDf990db0C5E341214D53FF4b9f',
+    [ChainId.MATIC_TESTNET]: '0x006Da6C4aB5F76BB2cc1ED6cFe1Eb7AC01344543',
   },
   ABI: [
     {
