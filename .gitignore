@@ -1,0 +1,8 @@
+.env
+package-lock.json
+
+# OS X
+.DS_Store
+
+# NPM
+node_modules
